@@ -1,0 +1,40 @@
+#Title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+  }
+  
+  .graph-title {
+    text-align: center;
+  }
+
+.Select-control {
+    background-color: #333; 
+    border: none; 
+}
+
+.Select--single > .Select-control .Select-value, .Select-placeholder {
+    color: white; 
+}
+
+.Select-menu-outer {
+    background-color: #333; 
+    border: none; 
+}
+
+.Select-option {
+    color: white; 
+    background-color: #333; 
+}
+
+.Select-option.is-focused {
+    background-color: #444; 
+}
+
+.Select-option.is-selected {
+    background-color: #555; 
+}
+
+.Select-arrow-zone {
+    color: white; 
+}
